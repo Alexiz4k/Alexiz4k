@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Alexiz4k
-- 👀 I’m interested in electronical enginnering.
-- 🌱 I’m currently learning Python and the German language.  
+- 👀 I’m electronic enginner.
+- 🌱 I’m programming in Python. 
