@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Alexiz4k
-- 👀 I’m electronic enginner.
-- 🌱 I’m programming in Python. 
+👋 Hi, I’m @Alexiz4k  
+👀 Electronic engineer  
+🌱 Learning and coding in Python
